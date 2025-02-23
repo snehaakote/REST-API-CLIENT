@@ -50,3 +50,5 @@ Caching API responses.
 Supporting WebSocket communication.
 Creating a database integration for storing API responses.
 Adding a UI dashboard for better API management.
+Output:
+![Image](https://github.com/user-attachments/assets/b856537f-5f0b-4b25-ba44-9badd6a797fb)
